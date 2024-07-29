@@ -39,5 +39,7 @@
         "^production"
       ]
     }
-  }
+  },
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "nxCloudAccessToken": "NjRiNDUzNTctOGNmYi00NGFjLWFmZTUtMjFlNGVlOTYwZjIxfHJlYWQtd3JpdGU="
 }
